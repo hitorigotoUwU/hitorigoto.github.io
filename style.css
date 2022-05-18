@@ -71,6 +71,18 @@ body {
     text-align: center;
 }
 
+.error {
+    text-align: center;
+    font-size: x-large;
+    margin-bottom: 0%;
+}
+
+.moreinfo {
+    margin-top: 0%;
+    text-align: center;
+    font-size: large;
+}
+
 .elgato {
     margin-left: 1%;
     float: left;

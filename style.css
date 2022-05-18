@@ -1,0 +1,106 @@
+
+/* le css file with code stolen from other sites lol */
+
+
+body {
+    width: 900px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    background: #FFFFF7;
+}
+
+.footer {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    bottom: 0%;
+}
+
+.wiptext {
+    text-align: center;
+}
+
+
+/* credit to dokodemo webmaster for the css below */
+.headbox {
+    margin-left: auto;
+    margin-right: auto;
+    background-image: url(img/bg.png);
+    background-size: auto 80px;
+    background-color: #F9F7F5;
+    border: 3px solid #B6A898;
+    border-radius: 6px;
+    height: 60px;
+    width: 854px;
+    position: relative;
+    padding: 10px;
+}
+
+.introbox {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1%;
+    background-image: url(img/bg.png);
+    background-size: auto 80px;
+    background-color: #F9F7F5;
+    border: 3px solid #B6A898;
+    border-radius: 6px;
+    height: auto;
+    width: 854px;
+    position: relative;
+    padding: 10px;
+}
+
+
+
+.links {
+    margin-left: 77%;
+    background-color: #F9F7F5;
+    border: 3px solid #B6A898;
+    background-image: url(img/bg.png);
+    border-radius: 6px;
+    padding: 10px;
+    width: 170px;
+    margin-top: 8px;
+    position: relative;
+    text-align: center;
+}
+
+.welcome {
+    text-align: center;
+}
+
+.elgato {
+    margin-left: 1%;
+    float: left;
+    background-color: #F9F7F5;
+    border: 3px solid #B6A898;
+    background-image: url(img/gato.png);
+    background-size:100% 100%;
+    border-radius: 6px;
+    padding: 10px;
+    width: 650px;
+    height: 86px;
+    margin-top: 8px;
+    position: relative;
+    text-align: center;
+}
+
+.hitorilogo {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    position: relative;
+    bottom: 20px;
+    z-index: 10;
+}
+
+.linuxheader {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    position: relative;
+    bottom: 5px;
+    z-index: 10;
+}

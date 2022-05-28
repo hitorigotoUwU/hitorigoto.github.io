@@ -53,6 +53,21 @@ body {
     padding: 10px;
 }
 
+.updates {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1%;
+    background-image: url(img/bg.png);
+    background-size: auto 80px;
+    background-color: #F9F7F5;
+    border: 3px solid #B6A898;
+    border-radius: 6px;
+    height: auto;
+    width: 854px;
+    position: relative;
+    padding: 10px;
+}
+
 .aboutbox {
     margin-left: 1%;
     float: left;
@@ -128,8 +143,7 @@ body {
     z-index: 10;
 }
 
-.linuxheader {
-    margin-left: auto;
+.boxheader {
     margin-right: auto;
     display: block;
     position: relative;
